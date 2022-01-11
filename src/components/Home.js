@@ -70,8 +70,9 @@ const Home = () => {
 
   useEffect(() => {
     setAllNodes(Object.keys(graph.adjacentList));
+    /*eslint-disable */
   }, []);
-
+  /*eslint-enable */
   const HandleFindPath = (source, end, graphList) => {
     printAllPaths(source, end, graphList);
   };
