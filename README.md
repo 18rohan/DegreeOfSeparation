@@ -1,3 +1,13 @@
+# Project Link
+https://degree-of-separation.vercel.app/
+
+# Project Introduction
+It is said that people are six or fewer connections away from each other. This webapp lets the user to:
+- Add new members in the network
+- Create connections between network
+- Select two people to find the all the paths from one user to another.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
